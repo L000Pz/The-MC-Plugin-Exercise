@@ -1,0 +1,9 @@
+name: MCExperience
+version: '${project.version}'
+main: me.stormtrooper.mcexperience.MCExperience
+api-version: 1.18
+commands:
+  mark-location:
+    description: will make a 50 block tall tower
+    usage: /<command>
+    aliases: [mark, tower]

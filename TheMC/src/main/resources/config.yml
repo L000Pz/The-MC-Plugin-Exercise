@@ -1,0 +1,5 @@
+worldname: world
+unlimited-wither-spawner:
+  description: will spawn a lot of withers
+  usage: /<command> <initdelay> <spawndelay>
+  aliases: [wither]
